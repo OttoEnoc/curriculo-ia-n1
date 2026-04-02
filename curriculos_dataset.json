@@ -1,30 +1,2383 @@
 [
   {
-    "nome": "Candidato 01",
-    "email": "candidato01@email.com",
-    "telefone": "11999990001",
+    "nome": "Yasmin Alves Rodrigues",
+    "email": "yasmin-alves-rodrigues1@email.com",
+    "telefone": "11970490681",
     "senioridade": "junior",
-    "resumo_profissional": "Estudante de tecnologia com interesse em desenvolvimento de software e análise de dados.",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Atuação em projetos de dados com experiência em tratamento, visualização e modelagem de informações de negócio.",
     "experiencias": [
       {
-        "cargo": "Estagiário de TI",
-        "empresa": "Empresa A",
-        "periodo": "01/2024 - 12/2024",
-        "descricao": "Suporte a sistemas internos e automação de planilhas."
+        "cargo": "Analista de Relatórios",
+        "empresa": "CloudAxis",
+        "periodo": "11/2022 - 08/2023",
+        "descricao": "Extração, limpeza e análise de dados, com elaboração de relatórios gerenciais e automação de rotinas."
       }
     ],
     "formacao": [
       {
         "curso": "Ciência da Computação",
-        "instituicao": "Universidade Exemplo",
-        "ano_conclusao": "2027"
+        "instituicao": "UNESP",
+        "ano_conclusao": "2021"
       }
     ],
-    "habilidades": ["Python", "SQL", "Git"],
+    "habilidades": [
+      "MySQL",
+      "SQL",
+      "Machine Learning",
+      "Linux",
+      "AWS"
+    ],
+    "competencias_comportamentais": [
+      "pensamento analítico",
+      "atenção a detalhes",
+      "proatividade",
+      "liderança"
+    ],
     "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Patrícia Gomes Costa",
+    "email": "patricia-gomes-costa2@email.com",
+    "telefone": "11917359750",
+    "senioridade": "senior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Atuação em projetos de software com foco em back-end, front-end e melhoria contínua de sistemas corporativos.",
+    "experiencias": [
+      {
+        "cargo": "Arquiteto de Software",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "10/2014 - 10/2015",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      },
+      {
+        "cargo": "Desenvolvedor Sênior",
+        "empresa": "TechNova Soluções",
+        "periodo": "05/2015 - 12/2016",
+        "descricao": "Apoio em testes, versionamento de código, revisão de pull requests e documentação técnica."
+      },
+      {
+        "cargo": "Arquiteto de Software",
+        "empresa": "Nexus Analytics",
+        "periodo": "12/2016 - 11/2017",
+        "descricao": "Apoio em testes, versionamento de código, revisão de pull requests e documentação técnica."
+      },
+      {
+        "cargo": "Arquiteto de Software",
+        "empresa": "CloudAxis",
+        "periodo": "07/2017 - 01/2018",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Universidade Anhembi Morumbi",
+        "ano_conclusao": "2020"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "SQL",
+      "Django",
+      "Spring Boot",
+      "Java",
+      "C++",
+      "MySQL",
+      "APIs REST"
+    ],
+    "competencias_comportamentais": [
+      "resolução de problemas",
+      "adaptabilidade",
+      "liderança",
+      "atenção a detalhes"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Eduardo Martins Carvalho",
+    "email": "eduardo-martins-carvalho3@email.com",
+    "telefone": "11981847639",
+    "senioridade": "junior",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Profissional da área de cibersegurança com experiência em controles, análise de riscos e resposta a incidentes.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Segurança Júnior",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "11/2022 - 04/2023",
+        "descricao": "Monitoramento de eventos de segurança, análise de alertas e apoio em tratativas de incidentes."
+      },
+      {
+        "cargo": "Analista de Segurança Júnior",
+        "empresa": "TechNova Soluções",
+        "periodo": "03/2023 - Atual",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "Universidade Anhembi Morumbi",
+        "ano_conclusao": "2021"
+      }
+    ],
+    "habilidades": [
+      "Segurança da Informação",
+      "Gestão de Vulnerabilidades",
+      "Redes",
+      "Git",
+      "PowerShell"
+    ],
+    "competencias_comportamentais": [
+      "pensamento analítico",
+      "organização",
+      "comunicação",
+      "resolução de problemas"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Fernanda Carvalho Souza",
+    "email": "fernanda-carvalho-souza4@email.com",
+    "telefone": "11915482486",
+    "senioridade": "pleno",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Atuação em segurança, redes e análise de incidentes, com foco em prevenção, monitoramento e boas práticas.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Segurança",
+        "empresa": "TechNova Soluções",
+        "periodo": "06/2018 - 01/2020",
+        "descricao": "Análise de logs, documentação de ocorrências e suporte a políticas e procedimentos internos."
+      },
+      {
+        "cargo": "Analista de Segurança",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "03/2019 - 10/2020",
+        "descricao": "Monitoramento de eventos de segurança, análise de alertas e apoio em tratativas de incidentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "Universidade Anhembi Morumbi",
+        "ano_conclusao": "2025"
+      },
+      {
+        "curso": "Pós-graduação em Segurança Cibernética",
+        "instituicao": "USP",
+        "ano_conclusao": "2029"
+      }
+    ],
+    "habilidades": [
+      "Docker",
+      "Análise de Logs",
+      "Git",
+      "Linux",
+      "Segurança da Informação",
+      "Python",
+      "PowerShell"
+    ],
+    "competencias_comportamentais": [
+      "atenção a detalhes",
+      "aprendizado rápido",
+      "liderança",
+      "organização"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
       {
         "idioma": "Inglês",
         "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Rafael Araújo Nascimento",
+    "email": "rafael-araujo-nascimento5@email.com",
+    "telefone": "11930432459",
+    "senioridade": "junior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Profissional da área de desenvolvimento com interesse em criar aplicações escaláveis, manter código de qualidade e colaborar em equipes ágeis.",
+    "experiencias": [
+      {
+        "cargo": "Estagiário de Desenvolvimento",
+        "empresa": "Nexus Analytics",
+        "periodo": "09/2022 - 11/2023",
+        "descricao": "Apoio em testes, versionamento de código, revisão de pull requests e documentação técnica."
+      },
+      {
+        "cargo": "Analista de Suporte",
+        "empresa": "Orbital Sistemas",
+        "periodo": "06/2023 - 04/2024",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Universidade Anhembi Morumbi",
+        "ano_conclusao": "2022"
+      }
+    ],
+    "habilidades": [
+      "Django",
+      "Git",
+      "PostgreSQL",
+      "Python",
+      "Docker"
+    ],
+    "competencias_comportamentais": [
+      "liderança",
+      "atenção a detalhes",
+      "pensamento analítico",
+      "aprendizado rápido"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Rodrigo Rocha Nascimento",
+    "email": "rodrigo-rocha-nascimento6@email.com",
+    "telefone": "11946171824",
+    "senioridade": "junior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Atuação em projetos de software com foco em back-end, front-end e melhoria contínua de sistemas corporativos.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Suporte",
+        "empresa": "CodeSphere Tecnologia",
+        "periodo": "04/2022 - Atual",
+        "descricao": "Implementação de APIs, consultas em banco de dados e integração entre serviços internos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Universidade Anhembi Morumbi",
+        "ano_conclusao": "2028"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "Node.js",
+      "Flask",
+      "C",
+      "PostgreSQL"
+    ],
+    "competencias_comportamentais": [
+      "trabalho em equipe",
+      "aprendizado rápido",
+      "adaptabilidade",
+      "atenção a detalhes"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Henrique Gomes Araújo",
+    "email": "henrique-gomes-araujo7@email.com",
+    "telefone": "11928325623",
+    "senioridade": "senior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Profissional com foco em análise de dados, construção de relatórios e geração de insights para apoio à tomada de decisão.",
+    "experiencias": [
+      {
+        "cargo": "Cientista de Dados",
+        "empresa": "Delta Solutions",
+        "periodo": "03/2014 - 08/2016",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      },
+      {
+        "cargo": "Cientista de Dados",
+        "empresa": "Connecta Sistemas",
+        "periodo": "08/2015 - 06/2017",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      },
+      {
+        "cargo": "Especialista em Dados",
+        "empresa": "Connecta Sistemas",
+        "periodo": "03/2016 - Atual",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Banco de Dados",
+        "instituicao": "UNICAMP",
+        "ano_conclusao": "2025"
+      }
+    ],
+    "habilidades": [
+      "Power BI",
+      "APIs REST",
+      "MySQL",
+      "Pandas",
+      "NumPy",
+      "AWS",
+      "SQL",
+      "Linux"
+    ],
+    "competencias_comportamentais": [
+      "proatividade",
+      "resolução de problemas",
+      "aprendizado rápido",
+      "atenção a detalhes"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Amanda Nascimento Ribeiro",
+    "email": "amanda-nascimento-ribeiro8@email.com",
+    "telefone": "11971232885",
+    "senioridade": "pleno",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Profissional orientado por dados, com vivência em consultas, indicadores e automação de análises.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de Dados Júnior",
+        "empresa": "Inova Digital",
+        "periodo": "09/2018 - 01/2020",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      },
+      {
+        "cargo": "Analista de BI",
+        "empresa": "Sigma Soft",
+        "periodo": "01/2019 - 03/2019",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UNIP",
+        "ano_conclusao": "2020"
+      }
+    ],
+    "habilidades": [
+      "SQL",
+      "Linux",
+      "Power BI",
+      "Python",
+      "MySQL",
+      "Tableau",
+      "NumPy"
+    ],
+    "competencias_comportamentais": [
+      "atenção a detalhes",
+      "trabalho em equipe",
+      "comunicação",
+      "liderança"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Pedro Souza Barbosa",
+    "email": "pedro-souza-barbosa9@email.com",
+    "telefone": "11957490644",
+    "senioridade": "junior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Profissional com foco em análise de dados, construção de relatórios e geração de insights para apoio à tomada de decisão.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Relatórios",
+        "empresa": "Connecta Sistemas",
+        "periodo": "12/2022 - 08/2023",
+        "descricao": "Construção de dashboards, modelagem de indicadores e tratamento de bases para apoio à área de negócios."
+      },
+      {
+        "cargo": "Analista de BI Júnior",
+        "empresa": "Sigma Soft",
+        "periodo": "12/2023 - 09/2024",
+        "descricao": "Construção de dashboards, modelagem de indicadores e tratamento de bases para apoio à área de negócios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "FIAP",
+        "ano_conclusao": "2020"
+      }
+    ],
+    "habilidades": [
+      "AWS",
+      "Machine Learning",
+      "Python",
+      "APIs REST",
+      "SQL"
+    ],
+    "competencias_comportamentais": [
+      "resolução de problemas",
+      "proatividade",
+      "trabalho em equipe",
+      "adaptabilidade"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Vinicius Nascimento Pereira",
+    "email": "vinicius-nascimento-pereira10@email.com",
+    "telefone": "11969448796",
+    "senioridade": "junior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Profissional orientado por dados, com vivência em consultas, indicadores e automação de análises.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Relatórios",
+        "empresa": "CloudAxis",
+        "periodo": "03/2022 - 07/2024",
+        "descricao": "Extração, limpeza e análise de dados, com elaboração de relatórios gerenciais e automação de rotinas."
+      },
+      {
+        "cargo": "Estagiário de Dados",
+        "empresa": "CloudAxis",
+        "periodo": "04/2023 - Atual",
+        "descricao": "Construção de dashboards, modelagem de indicadores e tratamento de bases para apoio à área de negócios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "FATEC",
+        "ano_conclusao": "2027"
+      }
+    ],
+    "habilidades": [
+      "AWS",
+      "Excel",
+      "MySQL",
+      "SQL",
+      "Pandas"
+    ],
+    "competencias_comportamentais": [
+      "proatividade",
+      "liderança",
+      "trabalho em equipe",
+      "comunicação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Guilherme Nascimento Nascimento",
+    "email": "guilherme-nascimento-nascimento11@email.com",
+    "telefone": "11941874911",
+    "senioridade": "senior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Profissional orientado por dados, com vivência em consultas, indicadores e automação de análises.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de Dados",
+        "empresa": "TechNova Soluções",
+        "periodo": "12/2014 - 02/2015",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      },
+      {
+        "cargo": "Engenheiro de Dados",
+        "empresa": "TechNova Soluções",
+        "periodo": "03/2015 - 02/2016",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      },
+      {
+        "cargo": "Cientista de Dados",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "02/2016 - 02/2017",
+        "descricao": "Extração, limpeza e análise de dados, com elaboração de relatórios gerenciais e automação de rotinas."
+      },
+      {
+        "cargo": "Engenheiro de Dados",
+        "empresa": "Connecta Sistemas",
+        "periodo": "02/2017 - Atual",
+        "descricao": "Extração, limpeza e análise de dados, com elaboração de relatórios gerenciais e automação de rotinas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC-SP",
+        "ano_conclusao": "2028"
+      },
+      {
+        "curso": "Pós-graduação em Engenharia de Dados",
+        "instituicao": "FIAP",
+        "ano_conclusao": "2026"
+      }
+    ],
+    "habilidades": [
+      "SQL",
+      "AWS",
+      "APIs REST",
+      "Power BI",
+      "Power Query",
+      "Azure",
+      "Pandas",
+      "MySQL"
+    ],
+    "competencias_comportamentais": [
+      "proatividade",
+      "liderança",
+      "resolução de problemas",
+      "organização"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Henrique Nascimento Fernandes",
+    "email": "henrique-nascimento-fernandes12@email.com",
+    "telefone": "11954317606",
+    "senioridade": "junior",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Atuação em segurança, redes e análise de incidentes, com foco em prevenção, monitoramento e boas práticas.",
+    "experiencias": [
+      {
+        "cargo": "Assistente de Segurança da Informação",
+        "empresa": "Connecta Sistemas",
+        "periodo": "04/2022 - 10/2022",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "Senac São Paulo",
+        "ano_conclusao": "2023"
+      }
+    ],
+    "habilidades": [
+      "Segurança da Informação",
+      "Linux",
+      "Gestão de Vulnerabilidades",
+      "Bash",
+      "Firewalls"
+    ],
+    "competencias_comportamentais": [
+      "comunicação",
+      "organização",
+      "aprendizado rápido",
+      "atenção a detalhes"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Eduardo Santos Oliveira",
+    "email": "eduardo-santos-oliveira13@email.com",
+    "telefone": "11933310074",
+    "senioridade": "pleno",
+    "area_atuacao": "infra",
+    "objetivo_profissional": "Atuar em infraestrutura e operações, garantindo disponibilidade, automação e confiabilidade dos ambientes tecnológicos.",
+    "resumo_profissional": "Profissional da área de infraestrutura e operações, com experiência em administração de sistemas e serviços em nuvem.",
+    "experiencias": [
+      {
+        "cargo": "Administrador de Sistemas",
+        "empresa": "TechNova Soluções",
+        "periodo": "03/2018 - 07/2018",
+        "descricao": "Automação de rotinas operacionais, configuração de serviços e monitoramento de disponibilidade."
+      },
+      {
+        "cargo": "Analista DevOps",
+        "empresa": "TechNova Soluções",
+        "periodo": "06/2019 - 06/2021",
+        "descricao": "Automação de rotinas operacionais, configuração de serviços e monitoramento de disponibilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UNESP",
+        "ano_conclusao": "2024"
+      },
+      {
+        "curso": "Pós-graduação em Segurança Cibernética",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano_conclusao": "2025"
+      }
+    ],
+    "habilidades": [
+      "Linux",
+      "PowerShell",
+      "Bash",
+      "Virtualização",
+      "Kubernetes",
+      "Git",
+      "Azure"
+    ],
+    "competencias_comportamentais": [
+      "comunicação",
+      "trabalho em equipe",
+      "proatividade",
+      "adaptabilidade"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Fernanda Alves Santos",
+    "email": "fernanda-alves-santos14@email.com",
+    "telefone": "11984199092",
+    "senioridade": "junior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Profissional de tecnologia com experiência em desenvolvimento de software, integração de sistemas e boas práticas de versionamento e testes.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Suporte",
+        "empresa": "Delta Solutions",
+        "periodo": "06/2022 - 03/2023",
+        "descricao": "Apoio em testes, versionamento de código, revisão de pull requests e documentação técnica."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UNICAMP",
+        "ano_conclusao": "2019"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "Python",
+      "CSS",
+      "MySQL",
+      "Linux"
+    ],
+    "competencias_comportamentais": [
+      "liderança",
+      "organização",
+      "comunicação",
+      "adaptabilidade"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ]
+  },
+  {
+    "nome": "Gabriel Santos Pereira",
+    "email": "gabriel-santos-pereira15@email.com",
+    "telefone": "11940858176",
+    "senioridade": "senior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Profissional orientado por dados, com vivência em consultas, indicadores e automação de análises.",
+    "experiencias": [
+      {
+        "cargo": "Especialista em Dados",
+        "empresa": "Orbital Sistemas",
+        "periodo": "01/2014 - 02/2015",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      },
+      {
+        "cargo": "Tech Lead de Dados",
+        "empresa": "Nexus Analytics",
+        "periodo": "02/2015 - 12/2017",
+        "descricao": "Construção de dashboards, modelagem de indicadores e tratamento de bases para apoio à área de negócios."
+      },
+      {
+        "cargo": "Cientista de Dados",
+        "empresa": "Orbital Sistemas",
+        "periodo": "05/2016 - 08/2016",
+        "descricao": "Extração, limpeza e análise de dados, com elaboração de relatórios gerenciais e automação de rotinas."
+      },
+      {
+        "cargo": "Engenheiro de Dados",
+        "empresa": "TechNova Soluções",
+        "periodo": "08/2017 - 11/2017",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FMU",
+        "ano_conclusao": "2022"
+      },
+      {
+        "curso": "Pós-graduação em Engenharia de Dados",
+        "instituicao": "USP",
+        "ano_conclusao": "2027"
+      }
+    ],
+    "habilidades": [
+      "MySQL",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Machine Learning",
+      "Python",
+      "PostgreSQL",
+      "Linux"
+    ],
+    "competencias_comportamentais": [
+      "aprendizado rápido",
+      "organização",
+      "comunicação",
+      "resolução de problemas"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ]
+  },
+  {
+    "nome": "Rodrigo Souza Rodrigues",
+    "email": "rodrigo-souza-rodrigues16@email.com",
+    "telefone": "11968282511",
+    "senioridade": "pleno",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Profissional de tecnologia com experiência em desenvolvimento de software, integração de sistemas e boas práticas de versionamento e testes.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Sistemas",
+        "empresa": "Sigma Soft",
+        "periodo": "02/2018 - 01/2019",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      },
+      {
+        "cargo": "Analista QA",
+        "empresa": "CodeSphere Tecnologia",
+        "periodo": "09/2019 - 05/2020",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "ano_conclusao": "2028"
+      },
+      {
+        "curso": "Pós-graduação em Segurança Cibernética",
+        "instituicao": "USP",
+        "ano_conclusao": "2026"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "CSS",
+      "PostgreSQL",
+      "C",
+      "Flask",
+      "Linux",
+      "C++"
+    ],
+    "competencias_comportamentais": [
+      "trabalho em equipe",
+      "pensamento analítico",
+      "resolução de problemas",
+      "atenção a detalhes"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ]
+  },
+  {
+    "nome": "Gabriel Costa Silva",
+    "email": "gabriel-costa-silva17@email.com",
+    "telefone": "11938335695",
+    "senioridade": "pleno",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Profissional da área de cibersegurança com experiência em controles, análise de riscos e resposta a incidentes.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Riscos",
+        "empresa": "CloudAxis",
+        "periodo": "02/2018 - 01/2019",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      },
+      {
+        "cargo": "Analista de Riscos",
+        "empresa": "Nexus Analytics",
+        "periodo": "02/2019 - 02/2019",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      },
+      {
+        "cargo": "Analista de Segurança",
+        "empresa": "CloudAxis",
+        "periodo": "02/2020 - Atual",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "PUC-SP",
+        "ano_conclusao": "2019"
+      }
+    ],
+    "habilidades": [
+      "Docker",
+      "Análise de Logs",
+      "PowerShell",
+      "Git",
+      "Gestão de Vulnerabilidades",
+      "Redes",
+      "Segurança da Informação"
+    ],
+    "competencias_comportamentais": [
+      "organização",
+      "resolução de problemas",
+      "proatividade",
+      "liderança"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Daniela Gomes Silva",
+    "email": "daniela-gomes-silva18@email.com",
+    "telefone": "11960392668",
+    "senioridade": "senior",
+    "area_atuacao": "infra",
+    "objetivo_profissional": "Atuar em infraestrutura e operações, garantindo disponibilidade, automação e confiabilidade dos ambientes tecnológicos.",
+    "resumo_profissional": "Atuação em suporte, redes e infraestrutura, com interesse em confiabilidade, escalabilidade e monitoramento de ambientes.",
+    "experiencias": [
+      {
+        "cargo": "Arquiteto de Infraestrutura",
+        "empresa": "Sigma Soft",
+        "periodo": "10/2014 - 12/2014",
+        "descricao": "Administração de servidores, suporte ao ambiente corporativo e acompanhamento de incidentes."
+      },
+      {
+        "cargo": "SRE",
+        "empresa": "Vision IT",
+        "periodo": "09/2015 - 10/2015",
+        "descricao": "Automação de rotinas operacionais, configuração de serviços e monitoramento de disponibilidade."
+      },
+      {
+        "cargo": "Arquiteto de Infraestrutura",
+        "empresa": "Vision IT",
+        "periodo": "05/2016 - 05/2017",
+        "descricao": "Atuação com redes, controle de acessos, sustentação de ambientes e apoio em implantações."
+      },
+      {
+        "cargo": "SRE",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "04/2017 - Atual",
+        "descricao": "Administração de servidores, suporte ao ambiente corporativo e acompanhamento de incidentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FMU",
+        "ano_conclusao": "2021"
+      },
+      {
+        "curso": "MBA em Arquitetura de Software",
+        "instituicao": "PUC-SP",
+        "ano_conclusao": "2028"
+      }
+    ],
+    "habilidades": [
+      "Linux",
+      "Kubernetes",
+      "APIs REST",
+      "Bash",
+      "Virtualização",
+      "PowerShell",
+      "Azure",
+      "Docker"
+    ],
+    "competencias_comportamentais": [
+      "organização",
+      "liderança",
+      "resolução de problemas",
+      "trabalho em equipe"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Beatriz Ribeiro Oliveira",
+    "email": "beatriz-ribeiro-oliveira19@email.com",
+    "telefone": "11902927357",
+    "senioridade": "pleno",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Profissional da área de desenvolvimento com interesse em criar aplicações escaláveis, manter código de qualidade e colaborar em equipes ágeis.",
+    "experiencias": [
+      {
+        "cargo": "Analista QA",
+        "empresa": "Nexus Analytics",
+        "periodo": "12/2018 - 04/2020",
+        "descricao": "Implementação de APIs, consultas em banco de dados e integração entre serviços internos."
+      },
+      {
+        "cargo": "Analista de Sistemas",
+        "empresa": "Inova Digital",
+        "periodo": "01/2019 - 05/2020",
+        "descricao": "Apoio em testes, versionamento de código, revisão de pull requests e documentação técnica."
+      },
+      {
+        "cargo": "Analista de Sistemas",
+        "empresa": "CodeSphere Tecnologia",
+        "periodo": "09/2020 - 09/2020",
+        "descricao": "Implementação de APIs, consultas em banco de dados e integração entre serviços internos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano_conclusao": "2026"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "Linux",
+      "Node.js",
+      "HTML",
+      "Docker",
+      "Flask",
+      "Python"
+    ],
+    "competencias_comportamentais": [
+      "comunicação",
+      "adaptabilidade",
+      "atenção a detalhes",
+      "proatividade"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Matheus Carvalho Barbosa",
+    "email": "matheus-carvalho-barbosa20@email.com",
+    "telefone": "11930008806",
+    "senioridade": "pleno",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Profissional da área de cibersegurança com experiência em controles, análise de riscos e resposta a incidentes.",
+    "experiencias": [
+      {
+        "cargo": "Analista SOC",
+        "empresa": "CodeSphere Tecnologia",
+        "periodo": "09/2018 - 09/2018",
+        "descricao": "Análise de logs, documentação de ocorrências e suporte a políticas e procedimentos internos."
+      },
+      {
+        "cargo": "Analista de Riscos",
+        "empresa": "Inova Digital",
+        "periodo": "01/2019 - 12/2021",
+        "descricao": "Análise de logs, documentação de ocorrências e suporte a políticas e procedimentos internos."
+      },
+      {
+        "cargo": "Analista de Segurança",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "05/2020 - 12/2021",
+        "descricao": "Monitoramento de eventos de segurança, análise de alertas e apoio em tratativas de incidentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "PUC-SP",
+        "ano_conclusao": "2027"
+      }
+    ],
+    "habilidades": [
+      "Docker",
+      "PowerShell",
+      "Segurança da Informação",
+      "Python",
+      "Análise de Logs",
+      "Redes",
+      "Firewalls"
+    ],
+    "competencias_comportamentais": [
+      "comunicação",
+      "aprendizado rápido",
+      "proatividade",
+      "resolução de problemas"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Carlos Rocha Barbosa",
+    "email": "carlos-rocha-barbosa21@email.com",
+    "telefone": "11926585799",
+    "senioridade": "pleno",
+    "area_atuacao": "infra",
+    "objetivo_profissional": "Atuar em infraestrutura e operações, garantindo disponibilidade, automação e confiabilidade dos ambientes tecnológicos.",
+    "resumo_profissional": "Profissional de infraestrutura com foco em ambientes Linux, automação, cloud e sustentação de serviços corporativos.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Infraestrutura",
+        "empresa": "Nexus Analytics",
+        "periodo": "11/2018 - 07/2020",
+        "descricao": "Administração de servidores, suporte ao ambiente corporativo e acompanhamento de incidentes."
+      },
+      {
+        "cargo": "Analista de Redes",
+        "empresa": "CodeSphere Tecnologia",
+        "periodo": "11/2019 - Atual",
+        "descricao": "Automação de rotinas operacionais, configuração de serviços e monitoramento de disponibilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano_conclusao": "2024"
+      }
+    ],
+    "habilidades": [
+      "Azure",
+      "Virtualização",
+      "Kubernetes",
+      "Linux",
+      "Bash",
+      "Git",
+      "MySQL"
+    ],
+    "competencias_comportamentais": [
+      "proatividade",
+      "liderança",
+      "trabalho em equipe",
+      "atenção a detalhes"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Marcos Rodrigues Almeida",
+    "email": "marcos-rodrigues-almeida22@email.com",
+    "telefone": "11910501465",
+    "senioridade": "senior",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Atuação em segurança, redes e análise de incidentes, com foco em prevenção, monitoramento e boas práticas.",
+    "experiencias": [
+      {
+        "cargo": "Arquiteto de Segurança",
+        "empresa": "TechNova Soluções",
+        "periodo": "11/2014 - 11/2014",
+        "descricao": "Monitoramento de eventos de segurança, análise de alertas e apoio em tratativas de incidentes."
+      },
+      {
+        "cargo": "Arquiteto de Segurança",
+        "empresa": "TechNova Soluções",
+        "periodo": "01/2015 - 03/2017",
+        "descricao": "Análise de logs, documentação de ocorrências e suporte a políticas e procedimentos internos."
+      },
+      {
+        "cargo": "Arquiteto de Segurança",
+        "empresa": "CloudAxis",
+        "periodo": "01/2016 - 07/2016",
+        "descricao": "Análise de logs, documentação de ocorrências e suporte a políticas e procedimentos internos."
+      },
+      {
+        "cargo": "Security Engineer",
+        "empresa": "Inova Digital",
+        "periodo": "02/2017 - 07/2017",
+        "descricao": "Análise de logs, documentação de ocorrências e suporte a políticas e procedimentos internos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Senac São Paulo",
+        "ano_conclusao": "2026"
+      },
+      {
+        "curso": "MBA em Arquitetura de Software",
+        "instituicao": "USP",
+        "ano_conclusao": "2027"
+      }
+    ],
+    "habilidades": [
+      "Docker",
+      "Segurança da Informação",
+      "Gestão de Vulnerabilidades",
+      "Análise de Logs",
+      "Python",
+      "PowerShell",
+      "Firewalls",
+      "AWS"
+    ],
+    "competencias_comportamentais": [
+      "trabalho em equipe",
+      "pensamento analítico",
+      "adaptabilidade",
+      "comunicação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Camila Lima Gomes",
+    "email": "camila-lima-gomes23@email.com",
+    "telefone": "11948717584",
+    "senioridade": "junior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Atuação em projetos de dados com experiência em tratamento, visualização e modelagem de informações de negócio.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Relatórios",
+        "empresa": "TechNova Soluções",
+        "periodo": "06/2022 - 12/2023",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      },
+      {
+        "cargo": "Analista de Relatórios",
+        "empresa": "TechNova Soluções",
+        "periodo": "07/2023 - Atual",
+        "descricao": "Extração, limpeza e análise de dados, com elaboração de relatórios gerenciais e automação de rotinas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Banco de Dados",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano_conclusao": "2026"
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "USP",
+        "ano_conclusao": "2026"
+      }
+    ],
+    "habilidades": [
+      "SQL",
+      "Python",
+      "MySQL",
+      "NumPy",
+      "Excel"
+    ],
+    "competencias_comportamentais": [
+      "pensamento analítico",
+      "comunicação",
+      "proatividade",
+      "aprendizado rápido"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Marcos Silva Monteiro",
+    "email": "marcos-silva-monteiro24@email.com",
+    "telefone": "11964651324",
+    "senioridade": "pleno",
+    "area_atuacao": "infra",
+    "objetivo_profissional": "Atuar em infraestrutura e operações, garantindo disponibilidade, automação e confiabilidade dos ambientes tecnológicos.",
+    "resumo_profissional": "Profissional da área de infraestrutura e operações, com experiência em administração de sistemas e serviços em nuvem.",
+    "experiencias": [
+      {
+        "cargo": "Analista DevOps",
+        "empresa": "Sigma Soft",
+        "periodo": "05/2018 - 08/2019",
+        "descricao": "Administração de servidores, suporte ao ambiente corporativo e acompanhamento de incidentes."
+      },
+      {
+        "cargo": "Analista DevOps",
+        "empresa": "Delta Solutions",
+        "periodo": "01/2019 - 05/2021",
+        "descricao": "Administração de servidores, suporte ao ambiente corporativo e acompanhamento de incidentes."
+      },
+      {
+        "cargo": "Analista de Infraestrutura",
+        "empresa": "Connecta Sistemas",
+        "periodo": "06/2020 - 06/2021",
+        "descricao": "Administração de servidores, suporte ao ambiente corporativo e acompanhamento de incidentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "FIAP",
+        "ano_conclusao": "2021"
+      }
+    ],
+    "habilidades": [
+      "Kubernetes",
+      "PostgreSQL",
+      "APIs REST",
+      "Docker",
+      "Linux",
+      "Azure",
+      "MySQL"
+    ],
+    "competencias_comportamentais": [
+      "liderança",
+      "pensamento analítico",
+      "organização",
+      "resolução de problemas"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Diego Monteiro Oliveira",
+    "email": "diego-monteiro-oliveira25@email.com",
+    "telefone": "11953159561",
+    "senioridade": "senior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Profissional de tecnologia com experiência em desenvolvimento de software, integração de sistemas e boas práticas de versionamento e testes.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor Sênior",
+        "empresa": "Nexus Analytics",
+        "periodo": "12/2014 - 11/2016",
+        "descricao": "Implementação de APIs, consultas em banco de dados e integração entre serviços internos."
+      },
+      {
+        "cargo": "Tech Lead",
+        "empresa": "Nexus Analytics",
+        "periodo": "05/2015 - 05/2017",
+        "descricao": "Apoio em testes, versionamento de código, revisão de pull requests e documentação técnica."
+      },
+      {
+        "cargo": "Engenheiro de Software",
+        "empresa": "Inova Digital",
+        "periodo": "05/2016 - Atual",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UNESP",
+        "ano_conclusao": "2021"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "TypeScript",
+      "Spring Boot",
+      "Django",
+      "Flask",
+      "JavaScript",
+      "C",
+      "PostgreSQL"
+    ],
+    "competencias_comportamentais": [
+      "resolução de problemas",
+      "liderança",
+      "aprendizado rápido",
+      "pensamento analítico"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Pedro Souza Silva",
+    "email": "pedro-souza-silva26@email.com",
+    "telefone": "11945636250",
+    "senioridade": "junior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Profissional da área de desenvolvimento com interesse em criar aplicações escaláveis, manter código de qualidade e colaborar em equipes ágeis.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor Júnior",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "01/2022 - 10/2022",
+        "descricao": "Implementação de APIs, consultas em banco de dados e integração entre serviços internos."
+      },
+      {
+        "cargo": "Analista de Suporte",
+        "empresa": "Orbital Sistemas",
+        "periodo": "09/2023 - 10/2024",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "ano_conclusao": "2028"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "Linux",
+      "Flask",
+      "Node.js",
+      "Java"
+    ],
+    "competencias_comportamentais": [
+      "comunicação",
+      "resolução de problemas",
+      "proatividade",
+      "aprendizado rápido"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Amanda Gomes Fernandes",
+    "email": "amanda-gomes-fernandes27@email.com",
+    "telefone": "11989632067",
+    "senioridade": "junior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Atuação em projetos de dados com experiência em tratamento, visualização e modelagem de informações de negócio.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Relatórios",
+        "empresa": "Orbital Sistemas",
+        "periodo": "02/2022 - Atual",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano_conclusao": "2027"
+      },
+      {
+        "curso": "Pós-graduação em Engenharia de Dados",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano_conclusao": "2027"
+      }
+    ],
+    "habilidades": [
+      "Tableau",
+      "Git",
+      "Power Query",
+      "SQL",
+      "Excel"
+    ],
+    "competencias_comportamentais": [
+      "adaptabilidade",
+      "comunicação",
+      "proatividade",
+      "pensamento analítico"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Giovana Silva Fernandes",
+    "email": "giovana-silva-fernandes28@email.com",
+    "telefone": "11985988827",
+    "senioridade": "junior",
+    "area_atuacao": "infra",
+    "objetivo_profissional": "Atuar em infraestrutura e operações, garantindo disponibilidade, automação e confiabilidade dos ambientes tecnológicos.",
+    "resumo_profissional": "Atuação em suporte, redes e infraestrutura, com interesse em confiabilidade, escalabilidade e monitoramento de ambientes.",
+    "experiencias": [
+      {
+        "cargo": "Estagiário de Infraestrutura",
+        "empresa": "Vision IT",
+        "periodo": "03/2022 - Atual",
+        "descricao": "Atuação com redes, controle de acessos, sustentação de ambientes e apoio em implantações."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FATEC",
+        "ano_conclusao": "2026"
+      }
+    ],
+    "habilidades": [
+      "Linux",
+      "Azure",
+      "Bash",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "competencias_comportamentais": [
+      "trabalho em equipe",
+      "pensamento analítico",
+      "organização",
+      "aprendizado rápido"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Eduardo Barbosa Costa",
+    "email": "eduardo-barbosa-costa29@email.com",
+    "telefone": "11925849756",
+    "senioridade": "senior",
+    "area_atuacao": "infra",
+    "objetivo_profissional": "Atuar em infraestrutura e operações, garantindo disponibilidade, automação e confiabilidade dos ambientes tecnológicos.",
+    "resumo_profissional": "Profissional de infraestrutura com foco em ambientes Linux, automação, cloud e sustentação de serviços corporativos.",
+    "experiencias": [
+      {
+        "cargo": "SRE",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "01/2014 - 11/2016",
+        "descricao": "Atuação com redes, controle de acessos, sustentação de ambientes e apoio em implantações."
+      },
+      {
+        "cargo": "Engenheiro DevOps",
+        "empresa": "Delta Solutions",
+        "periodo": "10/2015 - 03/2017",
+        "descricao": "Automação de rotinas operacionais, configuração de serviços e monitoramento de disponibilidade."
+      },
+      {
+        "cargo": "Engenheiro DevOps",
+        "empresa": "Delta Solutions",
+        "periodo": "10/2016 - 11/2016",
+        "descricao": "Administração de servidores, suporte ao ambiente corporativo e acompanhamento de incidentes."
+      },
+      {
+        "cargo": "Engenheiro DevOps",
+        "empresa": "Vision IT",
+        "periodo": "01/2017 - Atual",
+        "descricao": "Automação de rotinas operacionais, configuração de serviços e monitoramento de disponibilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "USP",
+        "ano_conclusao": "2021"
+      }
+    ],
+    "habilidades": [
+      "Linux",
+      "Docker",
+      "PowerShell",
+      "Bash",
+      "Redes",
+      "Azure",
+      "Git",
+      "AWS"
+    ],
+    "competencias_comportamentais": [
+      "liderança",
+      "comunicação",
+      "pensamento analítico",
+      "aprendizado rápido"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ]
+  },
+  {
+    "nome": "Larissa Ribeiro Lima",
+    "email": "larissa-ribeiro-lima30@email.com",
+    "telefone": "11911038203",
+    "senioridade": "pleno",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Profissional da área de cibersegurança com experiência em controles, análise de riscos e resposta a incidentes.",
+    "experiencias": [
+      {
+        "cargo": "Especialista Júnior em Segurança",
+        "empresa": "Sigma Soft",
+        "periodo": "03/2018 - 03/2018",
+        "descricao": "Monitoramento de eventos de segurança, análise de alertas e apoio em tratativas de incidentes."
+      },
+      {
+        "cargo": "Analista SOC",
+        "empresa": "Sigma Soft",
+        "periodo": "08/2019 - 08/2021",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      },
+      {
+        "cargo": "Analista de Riscos",
+        "empresa": "Vision IT",
+        "periodo": "02/2020 - Atual",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "USP",
+        "ano_conclusao": "2026"
+      }
+    ],
+    "habilidades": [
+      "Análise de Logs",
+      "Git",
+      "Gestão de Vulnerabilidades",
+      "Firewalls",
+      "Segurança da Informação",
+      "Bash",
+      "AWS"
+    ],
+    "competencias_comportamentais": [
+      "pensamento analítico",
+      "liderança",
+      "trabalho em equipe",
+      "comunicação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Gabriel Oliveira Monteiro",
+    "email": "gabriel-oliveira-monteiro31@email.com",
+    "telefone": "11904943649",
+    "senioridade": "pleno",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Profissional de segurança da informação com interesse em monitoramento, análise de vulnerabilidades e proteção de ambientes corporativos.",
+    "experiencias": [
+      {
+        "cargo": "Analista SOC",
+        "empresa": "CloudAxis",
+        "periodo": "06/2018 - 05/2020",
+        "descricao": "Análise de logs, documentação de ocorrências e suporte a políticas e procedimentos internos."
+      },
+      {
+        "cargo": "Analista de Riscos",
+        "empresa": "Connecta Sistemas",
+        "periodo": "05/2019 - 03/2020",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UNESP",
+        "ano_conclusao": "2028"
+      }
+    ],
+    "habilidades": [
+      "Bash",
+      "PowerShell",
+      "Python",
+      "Segurança da Informação",
+      "Redes",
+      "Docker",
+      "AWS"
+    ],
+    "competencias_comportamentais": [
+      "organização",
+      "adaptabilidade",
+      "aprendizado rápido",
+      "pensamento analítico"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Eduarda Costa Nascimento",
+    "email": "eduarda-costa-nascimento32@email.com",
+    "telefone": "11948868539",
+    "senioridade": "senior",
+    "area_atuacao": "infra",
+    "objetivo_profissional": "Atuar em infraestrutura e operações, garantindo disponibilidade, automação e confiabilidade dos ambientes tecnológicos.",
+    "resumo_profissional": "Profissional de infraestrutura com foco em ambientes Linux, automação, cloud e sustentação de serviços corporativos.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro DevOps",
+        "empresa": "CloudAxis",
+        "periodo": "05/2014 - 06/2015",
+        "descricao": "Automação de rotinas operacionais, configuração de serviços e monitoramento de disponibilidade."
+      },
+      {
+        "cargo": "Engenheiro DevOps",
+        "empresa": "Delta Solutions",
+        "periodo": "02/2015 - 04/2016",
+        "descricao": "Atuação com redes, controle de acessos, sustentação de ambientes e apoio em implantações."
+      },
+      {
+        "cargo": "Arquiteto de Infraestrutura",
+        "empresa": "Nexus Analytics",
+        "periodo": "01/2016 - 09/2017",
+        "descricao": "Atuação com redes, controle de acessos, sustentação de ambientes e apoio em implantações."
+      },
+      {
+        "cargo": "Especialista em Infraestrutura",
+        "empresa": "TechNova Soluções",
+        "periodo": "10/2017 - 12/2018",
+        "descricao": "Administração de servidores, suporte ao ambiente corporativo e acompanhamento de incidentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "UNICAMP",
+        "ano_conclusao": "2023"
+      }
+    ],
+    "habilidades": [
+      "Docker",
+      "PostgreSQL",
+      "Virtualização",
+      "Linux",
+      "APIs REST",
+      "Python",
+      "Redes",
+      "Kubernetes"
+    ],
+    "competencias_comportamentais": [
+      "organização",
+      "atenção a detalhes",
+      "resolução de problemas",
+      "proatividade"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "João Silva Alves",
+    "email": "joao-silva-alves33@email.com",
+    "telefone": "11959559685",
+    "senioridade": "pleno",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Atuação em projetos de software com foco em back-end, front-end e melhoria contínua de sistemas corporativos.",
+    "experiencias": [
+      {
+        "cargo": "Analista QA",
+        "empresa": "Inova Digital",
+        "periodo": "04/2018 - 10/2019",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      },
+      {
+        "cargo": "Desenvolvedor Full Stack",
+        "empresa": "Sigma Soft",
+        "periodo": "01/2019 - 12/2019",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      },
+      {
+        "cargo": "Analista QA",
+        "empresa": "Nexus Analytics",
+        "periodo": "02/2020 - 05/2022",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano_conclusao": "2027"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "CSS",
+      "TypeScript",
+      "PostgreSQL",
+      "C++",
+      "HTML",
+      "MySQL"
+    ],
+    "competencias_comportamentais": [
+      "liderança",
+      "atenção a detalhes",
+      "resolução de problemas",
+      "trabalho em equipe"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ]
+  },
+  {
+    "nome": "João Ribeiro Silva",
+    "email": "joao-ribeiro-silva34@email.com",
+    "telefone": "11958605830",
+    "senioridade": "junior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Atuação em projetos de software com foco em back-end, front-end e melhoria contínua de sistemas corporativos.",
+    "experiencias": [
+      {
+        "cargo": "QA Júnior",
+        "empresa": "Delta Solutions",
+        "periodo": "03/2022 - Atual",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Senac São Paulo",
+        "ano_conclusao": "2023"
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano_conclusao": "2029"
+      }
+    ],
+    "habilidades": [
+      "APIs REST",
+      "Git",
+      "Linux",
+      "C",
+      "Java"
+    ],
+    "competencias_comportamentais": [
+      "atenção a detalhes",
+      "trabalho em equipe",
+      "aprendizado rápido",
+      "liderança"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Diego Almeida Santos",
+    "email": "diego-almeida-santos35@email.com",
+    "telefone": "11928449609",
+    "senioridade": "senior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Atuação em projetos de dados com experiência em tratamento, visualização e modelagem de informações de negócio.",
+    "experiencias": [
+      {
+        "cargo": "Especialista em Dados",
+        "empresa": "Inova Digital",
+        "periodo": "11/2014 - 11/2014",
+        "descricao": "Extração, limpeza e análise de dados, com elaboração de relatórios gerenciais e automação de rotinas."
+      },
+      {
+        "cargo": "Cientista de Dados",
+        "empresa": "CloudAxis",
+        "periodo": "04/2015 - 04/2017",
+        "descricao": "Construção de dashboards, modelagem de indicadores e tratamento de bases para apoio à área de negócios."
+      },
+      {
+        "cargo": "Cientista de Dados",
+        "empresa": "Vision IT",
+        "periodo": "07/2016 - 10/2017",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      },
+      {
+        "cargo": "Tech Lead de Dados",
+        "empresa": "Connecta Sistemas",
+        "periodo": "12/2017 - 08/2019",
+        "descricao": "Desenvolvimento de consultas SQL, integração de fontes de dados e suporte à tomada de decisão."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano_conclusao": "2019"
+      }
+    ],
+    "habilidades": [
+      "SQL",
+      "Tableau",
+      "MySQL",
+      "Azure",
+      "Power Query",
+      "Python",
+      "APIs REST",
+      "Machine Learning"
+    ],
+    "competencias_comportamentais": [
+      "aprendizado rápido",
+      "trabalho em equipe",
+      "organização",
+      "liderança"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Bruno Souza Monteiro",
+    "email": "bruno-souza-monteiro36@email.com",
+    "telefone": "11908851446",
+    "senioridade": "junior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Atuação em projetos de software com foco em back-end, front-end e melhoria contínua de sistemas corporativos.",
+    "experiencias": [
+      {
+        "cargo": "Estagiário de Desenvolvimento",
+        "empresa": "DataBridge Sistemas",
+        "periodo": "12/2022 - Atual",
+        "descricao": "Apoio em testes, versionamento de código, revisão de pull requests e documentação técnica."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FATEC",
+        "ano_conclusao": "2022"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "Node.js",
+      "SQL",
+      "Python",
+      "PostgreSQL"
+    ],
+    "competencias_comportamentais": [
+      "adaptabilidade",
+      "trabalho em equipe",
+      "resolução de problemas",
+      "liderança"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ]
+  },
+  {
+    "nome": "Pedro Santos Oliveira",
+    "email": "pedro-santos-oliveira37@email.com",
+    "telefone": "11980800195",
+    "senioridade": "junior",
+    "area_atuacao": "dados",
+    "objetivo_profissional": "Atuar com análise e tratamento de dados, construção de indicadores e geração de insights para apoio à tomada de decisão.",
+    "resumo_profissional": "Profissional orientado por dados, com vivência em consultas, indicadores e automação de análises.",
+    "experiencias": [
+      {
+        "cargo": "Estagiário de Dados",
+        "empresa": "CloudAxis",
+        "periodo": "06/2022 - Atual",
+        "descricao": "Extração, limpeza e análise de dados, com elaboração de relatórios gerenciais e automação de rotinas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC-SP",
+        "ano_conclusao": "2019"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "NumPy",
+      "SQL",
+      "Power BI",
+      "Azure"
+    ],
+    "competencias_comportamentais": [
+      "atenção a detalhes",
+      "proatividade",
+      "comunicação",
+      "adaptabilidade"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  },
+  {
+    "nome": "Isabela Barbosa Souza",
+    "email": "isabela-barbosa-souza38@email.com",
+    "telefone": "11938081562",
+    "senioridade": "pleno",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Profissional de segurança da informação com interesse em monitoramento, análise de vulnerabilidades e proteção de ambientes corporativos.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Riscos",
+        "empresa": "TechNova Soluções",
+        "periodo": "01/2018 - 04/2020",
+        "descricao": "Monitoramento de eventos de segurança, análise de alertas e apoio em tratativas de incidentes."
+      },
+      {
+        "cargo": "Especialista Júnior em Segurança",
+        "empresa": "Inova Digital",
+        "periodo": "06/2019 - Atual",
+        "descricao": "Apoio em gestão de vulnerabilidades, revisão de acessos e aplicação de controles de segurança."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "Universidade Anhembi Morumbi",
+        "ano_conclusao": "2024"
+      }
+    ],
+    "habilidades": [
+      "SIEM",
+      "Docker",
+      "Linux",
+      "AWS",
+      "Segurança da Informação",
+      "Python",
+      "Gestão de Vulnerabilidades"
+    ],
+    "competencias_comportamentais": [
+      "resolução de problemas",
+      "atenção a detalhes",
+      "organização",
+      "comunicação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ]
+  },
+  {
+    "nome": "Tatiane Souza Araújo",
+    "email": "tatiane-souza-araujo39@email.com",
+    "telefone": "11946772924",
+    "senioridade": "junior",
+    "area_atuacao": "desenvolvimento",
+    "objetivo_profissional": "Atuar no desenvolvimento de software, contribuindo com soluções escaláveis, manutenção de sistemas e melhoria contínua do produto.",
+    "resumo_profissional": "Atuação em projetos de software com foco em back-end, front-end e melhoria contínua de sistemas corporativos.",
+    "experiencias": [
+      {
+        "cargo": "QA Júnior",
+        "empresa": "Connecta Sistemas",
+        "periodo": "04/2022 - 05/2023",
+        "descricao": "Apoio em testes, versionamento de código, revisão de pull requests e documentação técnica."
+      },
+      {
+        "cargo": "Desenvolvedor Júnior",
+        "empresa": "Sigma Soft",
+        "periodo": "03/2023 - Atual",
+        "descricao": "Desenvolvimento e manutenção de funcionalidades em sistemas web, correção de bugs e apoio ao time de produto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Senac São Paulo",
+        "ano_conclusao": "2028"
+      }
+    ],
+    "habilidades": [
+      "Git",
+      "TypeScript",
+      "APIs REST",
+      "MySQL",
+      "JavaScript"
+    ],
+    "competencias_comportamentais": [
+      "pensamento analítico",
+      "liderança",
+      "organização",
+      "adaptabilidade"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ]
+  },
+  {
+    "nome": "Amanda Costa Martins",
+    "email": "amanda-costa-martins40@email.com",
+    "telefone": "11922092442",
+    "senioridade": "pleno",
+    "area_atuacao": "seguranca",
+    "objetivo_profissional": "Atuar em segurança da informação, contribuindo com monitoramento, prevenção de incidentes e fortalecimento dos controles de segurança.",
+    "resumo_profissional": "Profissional da área de cibersegurança com experiência em controles, análise de riscos e resposta a incidentes.",
+    "experiencias": [
+      {
+        "cargo": "Analista SOC",
+        "empresa": "Inova Digital",
+        "periodo": "05/2018 - 12/2019",
+        "descricao": "Monitoramento de eventos de segurança, análise de alertas e apoio em tratativas de incidentes."
+      },
+      {
+        "cargo": "Analista de Riscos",
+        "empresa": "Inova Digital",
+        "periodo": "12/2019 - Atual",
+        "descricao": "Monitoramento de eventos de segurança, análise de alertas e apoio em tratativas de incidentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "FATEC",
+        "ano_conclusao": "2022"
+      }
+    ],
+    "habilidades": [
+      "Docker",
+      "Bash",
+      "Gestão de Vulnerabilidades",
+      "Firewalls",
+      "Segurança da Informação",
+      "Redes",
+      "PowerShell"
+    ],
+    "competencias_comportamentais": [
+      "trabalho em equipe",
+      "resolução de problemas",
+      "adaptabilidade",
+      "aprendizado rápido"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
       }
     ]
   }
