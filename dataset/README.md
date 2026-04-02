@@ -25,4 +25,4 @@ O dataset é utilizado para:
 3. testes da futura geração de currículos em PDF com apoio de LLM.
 
 ## Privacidade
-Todos os dados foram anonimizados ou criados de forma fictícia, sem correspondência direta com pessoas reais identificáveis.
+Todos os dados foram anonimizados/criados de forma fictícia, sem correspondência direta com pessoas reais identificáveis.
