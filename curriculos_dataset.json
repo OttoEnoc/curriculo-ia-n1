@@ -1,0 +1,31 @@
+[
+  {
+    "nome": "Candidato 01",
+    "email": "candidato01@email.com",
+    "telefone": "11999990001",
+    "senioridade": "junior",
+    "resumo_profissional": "Estudante de tecnologia com interesse em desenvolvimento de software e análise de dados.",
+    "experiencias": [
+      {
+        "cargo": "Estagiário de TI",
+        "empresa": "Empresa A",
+        "periodo": "01/2024 - 12/2024",
+        "descricao": "Suporte a sistemas internos e automação de planilhas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Universidade Exemplo",
+        "ano_conclusao": "2027"
+      }
+    ],
+    "habilidades": ["Python", "SQL", "Git"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ]
+  }
+]
